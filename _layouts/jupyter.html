@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<small>{{ page.date }}</small>
+<p class="view">โดย {{ page.author | default: site.author }}, {{ page.license | default: "UNKNOW"}}</p>
+
+{{content}}
+
+{% if page.source %}
+  <small>แหล่งที่มา: <em>{{ page.source }}</em></small>
+{% endif %}

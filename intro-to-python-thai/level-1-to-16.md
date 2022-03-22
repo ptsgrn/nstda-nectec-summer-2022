@@ -1,3 +1,12 @@
+---
+layout: jupyter
+title: โครงสร้างข้อมูลในภาษา Python
+source: https://tinyurl.com/ybn763lq
+date: 22/03/2022
+author: Prachya Boonkwan and Patsagorn Yuenyong
+license: CC-BY-SA-3.0
+---
+
 # โครงสร้างข้อมูลในภาษา Python — https://tinyurl.com/ybn763lq
 
 ปรัชญา บุญขวัญ

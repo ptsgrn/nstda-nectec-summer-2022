@@ -1,3 +1,12 @@
+---
+layout: jupyter
+title: การโปรแกรมภาษา Python (ไพธอน) เบื้องต้น
+source: https://tinyurl.com/y9wmkgj5
+date: 22/03/2022
+author: Prachya Boonkwan and Patsagorn Yuenyong
+license: CC-BY-SA-3.0
+---
+
 # การโปรแกรมภาษา Python (ไพธอน) เบื้องต้น — https://tinyurl.com/y9wmkgj5
 
 ปรัชญา บุญขวัญ
