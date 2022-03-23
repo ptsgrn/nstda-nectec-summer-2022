@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 # theme configurations
 title: ไฟล์ในโครงการรับนักเรียนเข้าฝึกทักษะวิจัย ณ สวทช.
 description: ไฟล์ทั้งหมดที่ใช้และสร้างที่เกี่ยวข้องขณะเข้าร่วมการฝึกทักษะวิจัยที่ NECTEC สวทช.
-logo: /assets/favicon.png
 lang: th-TH
 github:
   is_user_page: true

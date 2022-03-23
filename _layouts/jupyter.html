@@ -7,6 +7,13 @@ layout: default
 
 {{content}}
 
+{% include back-to-top.html %}
 {% if page.source %}
-  <small>แหล่งที่มา: <em>{{ page.source }}</em></small>
+<hr/>
+<details>
+  <summary>แหล่งที่มา</summary>
+  <ul>
+    <li>{{ page.source | join: "</li><li>"}}</li>
+  </ul>
+</details>
 {% endif %}
